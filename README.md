@@ -21,3 +21,13 @@
         \:|   |                  \::/    /                \::/    /                \::/____/                \::/    /                \::/    /        
          \|___|                   \/____/                  \/____/                  ~~                       \/____/                  \/____/         
 ```
+
+## Directions
+
+```bash
+# fix paths as needed
+git clone git@github.com:sidsurakanti/READMEs.git
+cd project
+cp ~/READMEs/python.md .
+# mv ~/READMEs/python.md ./README.md
+```
